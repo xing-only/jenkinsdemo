@@ -11,7 +11,7 @@
     <groupId>com.xing</groupId>
     <artifactId>jenkinsdemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>jenkinsdemo</name>
     <description>jenkins搭建部署</description>
     <properties>
